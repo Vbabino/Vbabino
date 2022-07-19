@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vbabino
+- 👋 Hi, I’m Vittorio Babino
 - 👀 I’m interested in Finance Analytics and No Code automation solutions
 - 🌱 I’m currently learning Power BI, Airtable & Zapier
 - 💞️ I’m looking to collaborate on process automation for Businesses 
