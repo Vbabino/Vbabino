@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vittorio Babino
 - 👀 I’m interested in Finance Analytics and No Code automation solutions
-- 🌱 I’m currently learning Power BI, Airtable & Zapier
+- 🌱 I’m currently learning Power BI & Python 🐍 for data analysis and report automation
 - 💞️ I’m looking to collaborate on process automation for Businesses 
 - 📫 How to reach me: https://www.linkedin.com/in/vittorio-b-53082479/
 
