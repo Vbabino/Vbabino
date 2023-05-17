@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vittorio Babino
-- 👀 I’m interested in Finance Analytics, mobile app development and No Code automation solutions
-- 🌱 I’m currently learning Power BI & Python 🐍 for data analysis and report automation
-- 💞️ I’m looking to collaborate on process automation for Businesses 
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning Swift and SwiftUI
+- 💞️ I’m looking to collaborate on mobile apps development 
 - 📫 How to reach me: https://www.linkedin.com/in/vittorio-b-53082479/
 
 <!---
