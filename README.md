@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vittorio Babino
+- 👋 Hi, I’m Giuseppe Babino
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on mobile apps development 
