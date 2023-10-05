@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giuseppe Babino
 - 👀 I’m interested in iOS / React Native development
-- 🌱 I have developed Receipt Master, an iOS app that will streamline the expense claims process for businesses, find it here: https://apps.apple.com/gb/app/receiptmaster/id6467873283
+- 📱 I have developed Receipt Master, an iOS app that will streamline the expense claims process for businesses, find it here: https://apps.apple.com/gb/app/receiptmaster/id6467873283
 - 💞️ I’m looking to collaborate on mobile apps development 
 - 📫 How to reach me: https://www.linkedin.com/in/vittorio-b-53082479/
 
