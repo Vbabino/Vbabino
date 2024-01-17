@@ -5,7 +5,7 @@ Mobile App Developer
 Accounting professional pivoting to mobile app development. Leveraging my financial expertise to craft tech solutions like Receipt Master iOS app that enhance efficiency. Skilled in implementing and refining systems, I merge traditional accounting with modern tech to innovate finance processes.  
 * 🌍  I'm based in London
 * ✉️  You can contact me at [vittoriobabino@gmail.com](mailto:vittoriobabino@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Android app development with Kotlin, Jetpack Compose or XML
 * 🤝  I'm open to collaborating on Mobile app projects
 * 📱  I have developed Receipt Master, an iOS app that will streamline the expense claims process for businesses, find it here: https://apps.apple.com/gb/app/receiptmaster/id6467873283
 
