@@ -1,8 +1,8 @@
 Hi 👋 My name is Giuseppe Babino
 =======================================================================================================================================  
-Backend | Mobile App Developer 
+Python Backend Developer 
 --------------------
-Accounting professional pivoting to backend/mobile app development. Leveraging my financial expertise to craft tech solutions like Receipt Master iOS app that enhance efficiency. Skilled in implementing and refining systems, I merge traditional accounting with modern tech to innovate finance processes.  
+Python backend developer with a strong foundation in Django, Flask, and Docker, currently completing a Diploma in Web Development at the University of London. Proven ability to build robust, real-world applications through two academic projects and participation in two hackathons.  
 * 🌍  I'm based in London
 * ✉️  You can contact me at [vittoriobabino@gmail.com](mailto:vittoriobabino@gmail.com)
 * 🧠  I'm studying a Graduate Diploma in Web Development at the University of London
