@@ -8,7 +8,6 @@ Python backend developer with a strong foundation in Django, Flask, and Docker, 
 * 🧠  I'm studying a Graduate Diploma in Web Development at the University of London
 * 🖥️  See my portfolio: https://gbcode.dev/
 * 🤝  I'm open to collaborating on Backend development projects
-* 📱  I have developed Receipt Master, an iOS app that will streamline the expense claims process for businesses, find it here: https://apps.apple.com/gb/app/receiptmaster/id6467873283
 
 ### Skills
 
